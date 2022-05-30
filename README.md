@@ -9,5 +9,5 @@ this video gives an amzing walkthrough of my projet and what all exceptional thi
 These are some of the major snipets of the code 
 
 ![image](https://user-images.githubusercontent.com/90853282/170927436-9fe380a5-2397-4ecc-92d1-3e661d3df379.png)
-thesse are the various modules used in the above project and which helped to make this project much more lively . 
+These are the various modules used in the above project and which helped to make this project much more lively . 
 
